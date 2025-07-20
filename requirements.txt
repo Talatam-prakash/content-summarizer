@@ -7,3 +7,4 @@ python-dotenv
 youtube-transcript-api
 pytube
 unstructured
+langchain_huggingface
