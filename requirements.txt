@@ -9,3 +9,4 @@ pytube
 unstructured
 langchain_huggingface
 langchain_chroma
+chromadb
